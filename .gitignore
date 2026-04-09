@@ -2,3 +2,9 @@
 __pycache__/
 *.pyc
 venv/
+conversations.db
+data/orders.json
+data/kb_index.faiss
+data/kb_chunks.json
+.claude/
+design_doc.md
