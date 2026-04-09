@@ -7,4 +7,3 @@ data/orders.json
 data/kb_index.faiss
 data/kb_chunks.json
 .claude/
-design_doc.md
